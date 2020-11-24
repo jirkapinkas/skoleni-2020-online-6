@@ -12,3 +12,6 @@
 
 ## Rozšíření: 
 
+Hazelcast management center: http://localhost:8090
+
+Je zapotřebí Cluster Config a nastavit v něm Member Addresses: hc1, hc2, hc3
