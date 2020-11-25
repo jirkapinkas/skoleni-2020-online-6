@@ -8,3 +8,8 @@
 
 ## Rozšíření: 
 
+4. Zobrazení logů:
+
+		docker-compose logs --follow
+
+(vypne se přes CTRL + C)
