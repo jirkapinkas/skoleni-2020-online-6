@@ -11,4 +11,4 @@ filebeat.config.modules:
   path: ${path.config}/modules.d/*.yml
   reload.enabled: false
 output.logstash:
-  hosts: ["graylog:5045"]
+  hosts: ["graylog:5044"]
